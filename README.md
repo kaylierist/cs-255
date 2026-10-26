@@ -1,2 +1,6 @@
 # cs-255
-A collection of my work in Systems Analysis and Design
+The client of the system was the representatives for DriverPass. They wanted this system to be an interface where people with upcoming driving tests could reserve a practice session with a driver beforehand, perform a practice driving test, and receive a grade and feedback for it. 
+I think I got the basic details of the project aligned well in my diagrams and explanations, and that all of my diagrams and design plans can be added onto with new features and additions when desired.
+If I could revise a document in this work, it would be the project 1 business requirements document. I was not specific enough to the DriverPass system details and needs, and it caused me to have to do a lot of backtracking to gain the information I needed when I could have had it mapped out for me right there.
+I created lists of wants/needs/ideas from the interview with the client when trying to establish what they desired from this system. It is important to consider the user's needs when designing because it reminds developers to keep the layout user-friendly and avoid creating confusing visuals or prompts.
+I would use each kind of UML diagram our class discussed, along with schedule planning, to go about software and system design. Once the initial conversation where the goal and requirements are laid out, these resources are great tools in aligning a development team and formulating tangible work goals from the original, general goal.
